@@ -22,6 +22,8 @@
 
 ### Блок-схема
 
+<img width="567" height="639" alt="{FEEA9775-688A-43CC-9DB3-BED086616F76}" src="https://github.com/user-attachments/assets/f4773e7b-e5cf-4f08-86d1-45c370bb6fce" />
+
 [Ссылка на блок-схему](https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&dark=auto#R%3Cmxfile%3E%3Cdiagram%20name%3D%22%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0-1%22%20id%3D%22ftJ76jVqvtfw3Rg9ueoT%22%3E3Vhdb9owFP01kboHpjhODHmkQLuXSZV42ProJiaJlGBkTAn79bMTGzsJbQPNWFsJGfv6Xn%2Bcc3xtcOCsKO8Z3qQ%2FaUxyx3Pj0oFzx%2FNAELriS1oOtWUCYW1IWBYrJ2NYZn%2BIMqq4ZJfFZNtw5JTmPNs0jRFdr0nEGzbMGN033VY0b866wQnpGJYRzrvWX1nMU7ULb2zsP0iWpHpmgMK6p8DaWe1km%2BKY7i0TXDhwxijlda0oZySX4Glc6ri7F3qPC2NkzfsEeN0ANcaWH%2FR2RYhAVjRu92nGyXKDI9mzF%2BQKW8qLXLSAqNaRzzjfqUhn7jrhXJa3riNcJmNdF%2BVtVS5UEGGclNYK1HrvCS0IZwfhklqQIoXf3sAPtE2NAjXGSmS%2BamJFfnIc2eAjKgqi03D5feASnG5kVXjhPCc5TRguBDobwjIxI2HtvgfT8RbCq6wk%2BkCcRLx0vFm15yuhCiYDwBr0gZWltHjabS9QocBELBLhQjomXLpIuztCdkdddpoSytPR8Ozo3ET3mRpV%2Fk9M1Kp5b25eWgvos5TyhaWMwDfZM57Jj%2BfenFjye2fwvlVTwLuLZAm8ri6POlTDHI%2B30iUc4rijD3%2FcZQqdeiqRmgQ7VWnWqzPtXdVV1ydVObfysG9l46AqkfYUUV5Xh3o6UQIrts7wQEXVIwyVhSZNtkErCwXuAGyPvwbb9X0bBl%2BW%2FCPZQ5IfXuEhNLWwm2vEBV7oWpc1GgIp%2FQgnceeR3MWO7lhEGk9NG851PJWvcdGKcrzdZlETRVJm%2FLeou98D1Xq0euZyk65uHHRjLbZjBcnmo91nwqqWjqsXxzFLCG%2B89WwS3%2BQkUNgwkmOePTfxsYgKXuFBzfBAMwHmkUq%2FJXrQvt%2FqpauoFpvH1fYj2LuMYP%2BTERz8J4J7HzR4GQ%2FB5TxYLBhOhuVB7maplkYZT2lC1zhfGOsJplCXKZlPfX3vDc2aOnMjsTU4CRrnbgTOPrrAfX0EulptybsPrX9tsYAPKpbxabHYF%2B4%2FOOhGMij0YDNV91fMsJIILpMEuk4ef5NaI5qGZIyCemf68AqZ3ghA%2FLgPz80RsPXzFbUvkAGvd3SZLMYfTRbgk8ki8INzZeG3ZYGGkoVomn%2BZa3fzXz1c%2FAU%3D%3C%2Fdiagram%3E%3C%2Fmxfile%3E)
 ## 2. Реализация программы
 Программа написана на языке **C++**.
